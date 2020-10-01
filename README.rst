@@ -63,7 +63,7 @@ For dev add following line as well:
 
     export OAUTHLIB_INSECURE_TRANSPORT=1
 
-How to run it on localhost
+How to run it on local host:
 --------------------------
 
 * First, prepare the environment:
@@ -92,7 +92,7 @@ How to run it on localhost
 
 P.S. `make dev` (or just `make`) combines steps above except db target
 
-How to run it in production
+How to run it in production:
 ---------------------------
 
 * Prepare the environment:
